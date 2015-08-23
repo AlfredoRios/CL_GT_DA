@@ -1,8 +1,3 @@
----
-title: "Readme"
-output: html_document
----
-
 
 This repository consist of three files:  
 

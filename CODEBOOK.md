@@ -1,7 +1,5 @@
----
-title: "CODE BOOK"
-output: html_document
----
+
+<h2>CODE BOOK</h2>
 
 <h3>1. RAW DATA INFORMATION </h3>
 The raw data to produced the tidy dataset was obtained from:
